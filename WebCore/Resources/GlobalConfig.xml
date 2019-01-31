@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WebAutotests>
+  <QA>
+    <RunSettings>
+      <Browser>Chrome</Browser>
+      <Environment>QA</Environment>
+      <Username>mira.sopina1@gmail.com</Username>
+      <Password>Dkht?dkjh123123</Password>
+      <BaseUrl>https://www.google.com</BaseUrl>
+    </RunSettings>
+    <EmailSettings>
+    </EmailSettings>
+    <DbSettings>
+    </DbSettings>
+  </QA>
+  <DEV>
+    <RunSettings>
+      <Browser>Chrome</Browser>
+      <Environment>DEV</Environment>
+      <Username>mira.sopina1@gmail.com</Username>
+      <Password>Dkht?dkjh123123</Password>
+      <BaseUrl>https://www.google.com</BaseUrl>
+    </RunSettings>
+    <EmailSettings>
+    </EmailSettings>
+    <DbSettings>
+    </DbSettings>
+  </DEV>
+  <STAGE>
+    <RunSettings>
+      <Browser>Chrome</Browser>
+      <Environment>STAGE</Environment>
+      <Username>mira.sopina1@gmail.com</Username>
+      <Password>Dkht?dkjh123123</Password>
+      <BaseUrl>https://www.google.com</BaseUrl>
+    </RunSettings>
+    <EmailSettings>
+    </EmailSettings>
+    <DbSettings>
+    </DbSettings>
+  </STAGE>
+</WebAutotests>
